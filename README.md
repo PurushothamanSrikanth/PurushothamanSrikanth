@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purushothaman-srikanth&label=Profile%20views&color=0e75b6&style=flat" alt="purushothaman-srikanth" /> </p>
 
-<p align="left"> <a href="https://github.com/PurushothamanSrikanth"><img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)" alt="purushothaman-srikanth" /></a> </p>
-
 - 🌱 I’m currently learning **Kafka, Databricks, Airflow, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PurushothamanSrikanth](https://github.com/PurushothamanSrikanth)
